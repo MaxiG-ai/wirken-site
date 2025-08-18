@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WirKen - Die Plattform für Zusammenarbeit</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on WirKen - Die Plattform für Zusammenarbeit</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nanxiaobei&#34;&gt;github.com/nanxiaobei&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lee.so&#34;&gt;lee.so&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/</guid>
+      <description>&lt;h1 id=&#34;willkommen-bei-wirken&#34;&gt;Willkommen bei Wirken&lt;/h1&gt;&#xA;&lt;p&gt;Die Projekte der Jugendlichen sollen das Gefühl von Miteinander stärken, Fronten abbauen und miteinander, lösungsorientiert an einem Strang ziehen, um die Demokratie zu schützen.&lt;/p&gt;&#xA;&lt;p&gt;‘Fronten abbauen’ heißt, aufeinander zugehen, auch wenn man andere Werte und Meinungen vertritt bzw. die Gemeinsamkeiten in den Unterschieden zu suchen.&#xA;‘An einem Strang ziehen’ heißt nicht, den gleichen Weg zu haben, sondern das gleiche Ziel.&#xA;Es heißt, den unterschiedlichen Ansichten mit Offenheit und Verständnis zu begegnen und sie ggf. sogar als Chance zu begreifen, um das Ziel Demokratiestärkung zu erreichen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/legal/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/legal/imprint/</guid>
+      <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Some Name&lt;/p&gt;&#xA;&lt;p&gt;Address&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
