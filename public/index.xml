@@ -1,40 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>WirKen - Die Plattform für Zusammenarbeit</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on WirKen - Die Plattform für Zusammenarbeit</description>
+    <title>WIRken on WirKen - Die Plattform für Zusammenarbeit</title>
+    <link>https://localhost/</link>
+    <description>Recent content in WIRken on WirKen - Die Plattform für Zusammenarbeit</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/archives/</link>
+      <link>https://localhost/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/archives/</guid>
+      <guid>https://localhost/archives/</guid>
       <description></description>
     </item>
     <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/nanxiaobei&#34;&gt;github.com/nanxiaobei&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://lee.so&#34;&gt;lee.so&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title></title>
-      <link>http://localhost:1313/homepage/</link>
+      <link>https://localhost/legal/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/</guid>
-      <description>&lt;h1 id=&#34;willkommen-bei-wirken&#34;&gt;Willkommen bei Wirken&lt;/h1&gt;&#xA;&lt;p&gt;Die Projekte der Jugendlichen sollen das Gefühl von Miteinander stärken, Fronten abbauen und miteinander, lösungsorientiert an einem Strang ziehen, um die Demokratie zu schützen.&lt;/p&gt;&#xA;&lt;p&gt;‘Fronten abbauen’ heißt, aufeinander zugehen, auch wenn man andere Werte und Meinungen vertritt bzw. die Gemeinsamkeiten in den Unterschieden zu suchen.&#xA;‘An einem Strang ziehen’ heißt nicht, den gleichen Weg zu haben, sondern das gleiche Ziel.&#xA;Es heißt, den unterschiedlichen Ansichten mit Offenheit und Verständnis zu begegnen und sie ggf. sogar als Chance zu begreifen, um das Ziel Demokratiestärkung zu erreichen.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/legal/imprint/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/legal/imprint/</guid>
+      <guid>https://localhost/legal/imprint/</guid>
       <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Some Name&lt;/p&gt;&#xA;&lt;p&gt;Address&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>https://localhost/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://localhost/contact/</guid>
+      <description>&lt;p&gt;So sind wir erreichbar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Unser Team</title>
+      <link>https://localhost/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://localhost/team/</guid>
+      <description>&lt;p&gt;Engagierte Menschen hinter der Initiative WIRken.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;team-mitglieder&#34;&gt;Team-Mitglieder&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Inhalte für das Team und Fotos folgen in Kürze.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bist du interessiert, Teil unseres Teams zu werden? &lt;a href=&#34;https://localhost/contact/&#34;&gt;Kontaktiere uns&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Workshops für Demokratie</title>
+      <link>https://localhost/workshops/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://localhost/workshops/</guid>
+      <description>&lt;p&gt;In den Workshops wollen wir Jugendliche motivieren, sich Projekte für die Demokratie auszudenken &amp;ndash; ganz nach ihren Interessen und eigenen Sorgen. Denn Demokratie wird nicht nur bei Vorträgen gegen den Rechtsruck geschützt. Es beginnt dort, sich Menschen begegnen, sich als Gemeinschaft begreifen und füreinander einsetzen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aufbau-des-workshops&#34;&gt;Aufbau des Workshops&lt;/h2&gt;&#xA;&lt;p&gt;Wir kommen &lt;strong&gt;zweimal für jeweils eine Doppelstunde&lt;/strong&gt; vorbei.&lt;/p&gt;&#xA;&lt;h3 id=&#34;erster-workshop&#34;&gt;Erster Workshop&lt;/h3&gt;&#xA;&lt;p&gt;Im ersten Teil wollen wir mit den Jugendlichen darüber sprechen, warum Engagement für eine Demokratie notwendig ist, was sie dazu persönlich bewegt und erste Ideen sammeln, wie sie selbst aktiv werden können.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
