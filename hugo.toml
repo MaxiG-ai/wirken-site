@@ -1,4 +1,4 @@
-baseURL = 'https://localhost/'
+baseURL = 'https://wir-ken.eu/'
 languageCode = 'de-de'
 title = 'WirKen - Die Plattform für Zusammenarbeit'
 theme = "paper"
@@ -10,10 +10,10 @@ theme = "paper"
     url = '/workshops/'
     weight = 2
 
-  [[menu.main]]
-    name = 'Team'
-    url = '/team/'
-    weight = 3
+  # [[menu.main]]
+  #   name = 'Team'
+  #   url = '/team/'
+  #   weight = 3
 
   [[menu.main]]
     name = 'Kontakt'
@@ -28,15 +28,14 @@ theme = "paper"
   # twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
   # github = 'YOUR_GITHUB_ID'                 # github.com/YOUR_GITHUB_ID
   instagram = 'wirken.inititative'          # instagram.com/wirken.inititative
-  linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
-  mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
+  # linkedin = 'YOUR_LINKEDIN_ID'             # linkedin.com/in/YOUR_LINKEDIN_ID
+  # mastodon = 'YOUR_MASTODON_LINK'           # e.g. 'https://mastodon.instance/@xxx'
   # threads = '@YOUR_THREADS_ID'              # threads.net/@YOUR_THREADS_ID
-  bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
+  # bluesky = 'YOUR_BLUESKY_ID'               # https://bsky.app/profile/YOUR_BLUESKY_ID
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  avatar = 'mail@wir-ken.eu'                 # gravatar email or image url
+  name = 'Madita Steiner'
 
 
   # misc

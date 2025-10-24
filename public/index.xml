@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>WIRken on WirKen - Die Plattform für Zusammenarbeit</title>
-    <link>https://localhost/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in WIRken on WirKen - Die Plattform für Zusammenarbeit</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://localhost/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://localhost/archives/</link>
+      <link>http://localhost:1313/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://localhost/archives/</guid>
+      <guid>http://localhost:1313/archives/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>https://localhost/legal/imprint/</link>
+      <link>http://localhost:1313/legal/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://localhost/legal/imprint/</guid>
+      <guid>http://localhost:1313/legal/imprint/</guid>
       <description>&lt;h1 id=&#34;impressum&#34;&gt;Impressum&lt;/h1&gt;&#xA;&lt;p&gt;Some Name&lt;/p&gt;&#xA;&lt;p&gt;Address&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kontakt</title>
-      <link>https://localhost/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://localhost/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;So sind wir erreichbar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Unser Team</title>
-      <link>https://localhost/team/</link>
+      <link>http://localhost:1313/team/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://localhost/team/</guid>
-      <description>&lt;p&gt;Engagierte Menschen hinter der Initiative WIRken.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;team-mitglieder&#34;&gt;Team-Mitglieder&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Inhalte für das Team und Fotos folgen in Kürze.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bist du interessiert, Teil unseres Teams zu werden? &lt;a href=&#34;https://localhost/contact/&#34;&gt;Kontaktiere uns&lt;/a&gt;!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/team/</guid>
+      <description>&lt;p&gt;Engagierte Menschen hinter der Initiative WIRken.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;team-mitglieder&#34;&gt;Team-Mitglieder&lt;/h2&gt;&#xA;&lt;p&gt;&lt;em&gt;Inhalte für das Team und Fotos folgen in Kürze.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Bist du interessiert, Teil unseres Teams zu werden? &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;Kontaktiere uns&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops für Demokratie</title>
-      <link>https://localhost/workshops/</link>
+      <link>http://localhost:1313/workshops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://localhost/workshops/</guid>
+      <guid>http://localhost:1313/workshops/</guid>
       <description>&lt;p&gt;In den Workshops wollen wir Jugendliche motivieren, sich Projekte für die Demokratie auszudenken &amp;ndash; ganz nach ihren Interessen und eigenen Sorgen. Denn Demokratie wird nicht nur bei Vorträgen gegen den Rechtsruck geschützt. Es beginnt dort, sich Menschen begegnen, sich als Gemeinschaft begreifen und füreinander einsetzen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;aufbau-des-workshops&#34;&gt;Aufbau des Workshops&lt;/h2&gt;&#xA;&lt;p&gt;Wir kommen &lt;strong&gt;zweimal für jeweils eine Doppelstunde&lt;/strong&gt; vorbei.&lt;/p&gt;&#xA;&lt;h3 id=&#34;erster-workshop&#34;&gt;Erster Workshop&lt;/h3&gt;&#xA;&lt;p&gt;Im ersten Teil wollen wir mit den Jugendlichen darüber sprechen, warum Engagement für eine Demokratie notwendig ist, was sie dazu persönlich bewegt und erste Ideen sammeln, wie sie selbst aktiv werden können.&lt;/p&gt;</description>
     </item>
   </channel>

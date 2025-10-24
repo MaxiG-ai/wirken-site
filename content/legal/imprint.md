@@ -2,7 +2,7 @@
 ---
 # Impressum
 
-Some Name
+Will be filled soon
 
-Address
+Madita Steiner
 
