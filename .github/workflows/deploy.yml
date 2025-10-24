@@ -1,0 +1,57 @@
+# .github/workflows/deploy.yml
+
+name: Build and Deploy Hugo Site to Hetzner
+
+# 1. Trigger: Run this workflow on a push to the 'main' branch
+on:
+  push:
+    branches:
+      - main  # Or whatever your deployment branch is
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest # Use a standard Linux runner
+
+    steps:
+      # 2. Get your code from the repository
+      - name: Check out code
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetches submodules (like themes)
+          fetch-depth: 0    # Fetches all history for .GitInfo
+
+      # 3. Set up the Hugo build environment
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      # 4. Build your website
+      - name: Build Site
+        run: hugo --minify
+        # This creates the 'public' directory
+
+      # 5. Deploy the 'public' folder to Hetzner
+      - name: Deploy to Hetzner
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          # --- Connection Settings ---
+          server: ${{ secrets.FTP_SERVER }}    # From GitHub Secrets
+          username: ${{ secrets.FTP_USER }}      # From GitHub Secrets
+          password: ${{ secrets.FTP_PASSWORD }}  # From GitHub Secrets
+          
+          # --- This is the most important part! ---
+          # Use 'ftps' for a secure connection.
+          # Hetzner webhosting supports this.
+          protocol: ftps
+          port: 21                           # Standard port for FTPS
+
+          # --- Deployment Settings ---
+          local-dir: ./public/                   # The folder to upload (Hugo's output)
+          server-dir: ${{ secrets.REMOTE_PATH }} # The destination path on Hetzner
+          
+          # --- Action Settings ---
+          cleanup: true                          # Automatically remove files on the server
+                                                 # that are NOT in your ./public folder
+          timeout: 90000                         # Increase timeout for larger sites
