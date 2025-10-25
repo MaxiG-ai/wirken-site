@@ -1,4 +1,4 @@
-baseURL = 'https://wir-ken.eu/'
+baseURL = 'http://wir-ken.eu.www657.your-server.de/'
 languageCode = 'de-de'
 title = 'WirKen - Die Plattform für Zusammenarbeit'
 theme = "paper"
