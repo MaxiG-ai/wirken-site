@@ -2,4 +2,4 @@
 title = "Kontakt"
 +++
 
-So sind wir erreichbar.
+Am besten sind wie über unsere Mail mail@wir-ken.eu zu erreichen.
