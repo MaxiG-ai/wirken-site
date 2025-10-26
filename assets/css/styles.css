@@ -1,0 +1,50 @@
+.img-float {
+    display: block;
+    margin: 0 1em 1em 0;
+}
+
+.img-float-left {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 3em;
+}
+
+.img-float-right {
+    float: right;
+    margin-left: 1em;
+    margin-bottom: 3em;
+}
+
+.img-float img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.img-float figcaption {
+    font-size: 0.9em;
+    font-style: italic;
+    color: #666;
+    margin-top: 0.5em;
+    text-align: center;
+}
+
+/* Ensure text wraps around floated images */
+.img-float+p {
+    clear: none;
+}
+
+/* Optional: Add a border or shadow */
+.img-float {
+    border: 1px solid #ddd;
+    padding: 0.5em;
+    background: #f9f9f9;
+    margin: 0 1em 3em 0;
+}
+
+/* Add this to clear floats on headings */
+/* Note: Could hinder future designs with headings inside floated containers */
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+    overflow: hidden;
+}

@@ -1,0 +1,18 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "Image" -}}
+{{- $float := .Get "float" | default "left" -}}
+{{- $width := .Get "width" | default "40%" -}}
+{{- $caption := .Get "caption" -}}
+
+<figure class="img-float img-float-{{ $float }}" style="float: {{ $float }}; width: {{ $width }}; margin: 0 1em 1em 0;">
+    {{- if .Get "link" -}}
+    <a href="{{ .Get " link" }}"{{ with .Get "target" }} target="{{ . }}" {{ end }}>
+        {{- end -}}
+        <img src="{{ $src }}" alt="{{ $alt }}" style="width: 100%; height: auto;">
+        {{- if .Get "link" -}}
+    </a>
+    {{- end -}}
+    {{- if $caption -}}
+    <figcaption style="font-size: 0.9em; font-style: italic; margin-top: 0.5em;">{{ $caption }}</figcaption>
+    {{- end -}}
+</figure>

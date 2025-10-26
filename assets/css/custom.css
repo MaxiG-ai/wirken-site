@@ -1,7 +1,5 @@
 /* Custom CSS - Dark mode removed */
 
-/* Remove all dark mode styles by overriding them */
-
 /* Body - remove dark background overlay */
 body::before {
   display: none !important;
