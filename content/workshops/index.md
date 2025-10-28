@@ -21,7 +21,7 @@ Im ersten Teil wollen wir mit den Jugendlichen darüber sprechen, warum Engageme
 
 {{< img-float src="/images/PHOTO-2025-10-15-14-11-13.jpg" alt="Description" float="right" width="30%" caption="Madita beim Workshop" >}}
 
-Beim zweiten Mal sollen aus allgemeinen Idee konkrete Vorstellungen werden. Wer kann mir helfen, damit ich mein Projekt umsetzen kann? Was mache ich, wenn ich dafür finanzielle Unterstützung brauche? Wir wissen, dass ein eigenes Projekt unheimlich nicht für jeden etwas ist. Deshalb wollen wir den Jugendlichen zum Schluss laufende Projekte mitgeben, bei denen sie sich engagieren können -- keine bei denen viele ältere Erwachsene dabei sind, sondern für ihr Alter.
+Beim zweiten Workshop sollen aus allgemeinen Idee konkrete Vorstellungen werden. Wer kann mir helfen, damit ich mein Projekt umsetzen kann? Was mache ich, wenn ich dafür finanzielle Unterstützung brauche? Wir wissen, dass ein eigenes Projekt nicht für jeden etwas ist. Deshalb wollen wir den Jugendlichen zum Schluss laufende Projekte mitgeben, bei denen sie sich engagieren können -- keine bei denen viele ältere Erwachsene dabei sind, sondern für ihr Alter.
 
 
 **Die Workshops sind für Lernende ab der 8. Klasse.**
