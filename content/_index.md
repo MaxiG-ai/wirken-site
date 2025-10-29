@@ -11,7 +11,7 @@ Inflation, fehlende Wohnungen, Klimawandel, (politische) Hetze im Netz, Angst vo
 
 In [Workshops](/workshops/) sprechen wir mit Jugendlichen über ihre Sorgen. Sie sollen sie motivieren, selbst etwas zu verändern.
 
-Und auf Social Media treffen wir Menschen, die es schon getan haben: aktiv werden. Wir besuchen Projekte für mehr Zusammenhalt, bekannte Engagierte hinter den Kulissen und geben leisen, jungen Menschen eine Stimme, die sich auf eine besondere Weise einsetzen.
+Und auf Social Media treffen wir Menschen, die schon aktiv sind. Wir besuchen Projekte für mehr Zusammenhalt, bekannte Engagierte hinter den Kulissen und geben leisen, jungen Menschen eine Stimme, die sich auf eine besondere Weise einsetzen.
 
 ## Darum geht es
 
