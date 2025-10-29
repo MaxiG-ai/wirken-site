@@ -2,7 +2,7 @@
 title = "Workshops für Demokratie"
 +++
 
-In den Workshops wollen wir Jugendliche motivieren, sich Projekte für die Demokratie auszudenken -- ganz nach ihren Interessen und eigenen Sorgen. Denn Demokratie wird nicht nur bei Vorträgen gegen den Rechtsruck geschützt. Es beginnt dort, sich Menschen begegnen, sich als Gemeinschaft begreifen und füreinander einsetzen.
+In den Workshops wollen wir Jugendliche motivieren, sich Projekte für die Demokratie auszudenken -- ganz nach ihren Interessen und eigenen Sorgen. Denn Demokratie wird nicht nur bei Vorträgen gegen den Rechtsruck geschützt. Es beginnt dort, wo sich Menschen begegnen, sich als Gemeinschaft begreifen und füreinander einsetzen.
 
 ## Aufbau des Workshops
 
@@ -21,7 +21,7 @@ Im ersten Teil wollen wir mit den Jugendlichen darüber sprechen, warum Engageme
 
 {{< img-float src="/images/PHOTO-2025-10-15-14-11-13.jpg" alt="Description" float="right" width="30%" caption="Madita beim Workshop" >}}
 
-Beim zweiten Workshop sollen aus allgemeinen Idee konkrete Vorstellungen werden. Wer kann mir helfen, damit ich mein Projekt umsetzen kann? Was mache ich, wenn ich dafür finanzielle Unterstützung brauche? Wir wissen, dass ein eigenes Projekt nicht für jeden etwas ist. Deshalb wollen wir den Jugendlichen zum Schluss laufende Projekte mitgeben, bei denen sie sich engagieren können -- keine bei denen viele ältere Erwachsene dabei sind, sondern für ihr Alter.
+Beim zweiten Workshop sollen aus allgemeinen Idee konkrete Vorstellungen werden. Wer kann mir helfen, damit ich mein Projekt umsetzen kann? Was mache ich, wenn ich dafür finanzielle Unterstützung brauche? Wir wissen, dass ein eigenes Projekt nicht für jeden etwas ist. Deshalb wollen wir den Jugendlichen zum Schluss laufende Projekte mitgeben, bei denen sie sich engagieren können -- keine mit vielen älteren Erwachsenen, sondern für ihr Alter.
 
 
 **Die Workshops sind für Lernende ab der 8. Klasse.**
@@ -30,7 +30,7 @@ Beim zweiten Workshop sollen aus allgemeinen Idee konkrete Vorstellungen werden.
 
 ![Workshop 1](/images/PHOTO-2025-10-15-14-10-21.jpg)
 
-Für Workshops in anderen sozialen Einrichtungen kommen wir auch gerne für einen halben Tag vorbei.
+Für Workshops in anderen sozialen Einrichtungen kommen gerne einmal für mehrere Stunden vorbei.
 
 ## ✨ Extra-Ansporn ✨
 
