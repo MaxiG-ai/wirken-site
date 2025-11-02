@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Legals on WirKen - Wir fördern Zusammenarbeit</title>
+    <title>Legals on WIRken - Wir fördern Zusammenarbeit</title>
     <link>http://localhost:1313/legal/</link>
-    <description>Recent content in Legals on WirKen - Wir fördern Zusammenarbeit</description>
+    <description>Recent content in Legals on WIRken - Wir fördern Zusammenarbeit</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <atom:link href="http://localhost:1313/legal/index.xml" rel="self" type="application/rss+xml" />
@@ -12,7 +12,7 @@
       <link>http://localhost:1313/legal/imprint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/legal/imprint/</guid>
-      <description>&lt;p&gt;Website des Projekts WirKen&lt;/p&gt;&#xA;&lt;p&gt;Madita Steiner&#xA;&lt;a href=&#34;mailto:mail@wir-ken.eu&#34;&gt;mail@wir-ken.eu&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Website des Projekts WIRken&lt;/p&gt;&#xA;&lt;p&gt;Madita Steiner&#xA;&lt;a href=&#34;mailto:mail@wir-ken.eu&#34;&gt;mail@wir-ken.eu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

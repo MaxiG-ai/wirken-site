@@ -2,7 +2,7 @@
 title = "Impressum"
 +++
 
-Website des Projekts WirKen
+Website des Projekts WIRken
 
 Madita Steiner
 mail@wir-ken.eu
