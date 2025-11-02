@@ -1,6 +1,6 @@
 baseURL = 'https://wir-ken.eu/'
 languageCode = 'de-de'
-title = 'WirKen - Wir fördern Zusammenarbeit'
+title = 'WIRken - Wir fördern Zusammenarbeit'
 theme = "paper"
 
 [menu]
